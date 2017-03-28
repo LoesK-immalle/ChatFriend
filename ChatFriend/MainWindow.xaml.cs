@@ -23,7 +23,7 @@ namespace ChatFriend
         public MainWindow()
         {
             InitializeComponent();
-            DateTime voor = DateTime.Now;
+          /*DateTime voor = DateTime.Now;
 
             Console.Write("Geef je naam: ");
             string naam = Console.ReadLine();
@@ -230,7 +230,7 @@ namespace ChatFriend
                     }
                 }
             }
-        }
+        }*/
     }
     }
 }
