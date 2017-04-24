@@ -35,7 +35,7 @@
         </Rectangle>
         <TextBox x:Name="textWindow" TextWrapping="Wrap" Text="Type here" Margin="129,262,0,0" Height="39" VerticalAlignment="Top" HorizontalAlignment="Left" Width="340"/>
         <TextBlock x:Name="chatWindow" TextWrapping="Wrap" Margin="138,86,0,0" Background="White" Height="164" VerticalAlignment="Top" HorizontalAlignment="Left" Width="369"/>
-        <Button x:Name="sendButton" Content="Send" HorizontalAlignment="Left" Margin="469,262,0,0" VerticalAlignment="Top" Width="48" Height="39" BorderBrush="#FF9ADCF0" Click="sendButton_Click"/>
+        <Button x:Name="sendButton" Content="Send" HorizontalAlignment="Left" Margin="469,262,0,0" VerticalAlignment="Top" Width="48" Height="39" BorderBrush="#FF9ADCF0"/>
         <Label x:Name="label" Content="Woutjeuhhh" Margin="129,18,0,0" FontFamily="Sitka Heading" FontSize="22" Height="34" VerticalAlignment="Top" HorizontalAlignment="Left" Width="98"/>
         <Label x:Name="label1" Content="(Available)" Margin="227,24,0,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="65"/>
         <Label x:Name="label2" Content="&quot;My loneliness is killin' me&quot; -Britney Spears" Margin="129,47,0,0" FontSize="9" HorizontalAlignment="Left" Width="257" Height="22" VerticalAlignment="Top"/>
